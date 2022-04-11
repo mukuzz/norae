@@ -1,0 +1,5 @@
+discord
+discord.py
+requests
+google-api-python-client
+ytmdl
